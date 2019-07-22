@@ -22,7 +22,7 @@ Navigate into the `MMM-ENV-Provider` folder with `cd ~/MagicMirror/modules/MMM-E
 If you haven't changed the modules, this should work without any problems. Type `git status` to see your changes, if there are any, you can reset them with `git reset --hard`. After that, `git pull` should be possible.
 
 # Using the module
-To use this module, add the following configuration block to the modules array in the `config/config.js` file:
+To use this module, add the following configuration block as the first element of the modules array in the `config/config.js` file:
 ```js
 {
     module: 'MMM-ENV-Provider'
