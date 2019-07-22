@@ -1,0 +1,11 @@
+{
+  "name": "mmm-env-provider",
+  "version": "1.0.0",
+  "description": "Provides environmental variables the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Gölzhäuser",
+  "license": "ISC"
+}

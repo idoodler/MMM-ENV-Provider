@@ -1,0 +1,3 @@
+Module.register("MMM-ENV-Injector", {
+    // Nothing to do here...
+});
