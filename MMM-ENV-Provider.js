@@ -1,3 +1,3 @@
-Module.register("MMM-ENV-Injector", {
+Module.register("MMM-ENV-Provider", {
     // Nothing to do here...
 });
