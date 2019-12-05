@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3f6f892a32a04db5922ea461e2714683)](https://www.codacy.com/manual/idoodler/MMM-ENV-Provider?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=idoodler/MMM-ENV-Provider&amp;utm_campaign=Badge_Grade)
+
 # MMM-ENV-Provider
 This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror/).
 
